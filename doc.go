@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
-// Package controllerruntime provides tools to construct Kubernetes-style
+// Package controllerruntime provides tools to construct Kubernet es-style
 // controllers that manipulate both Kubernetes CRDs and aggregated/built-in
 // Kubernetes APIs.
 //
